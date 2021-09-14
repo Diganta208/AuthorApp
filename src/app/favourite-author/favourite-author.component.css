@@ -1,0 +1,67 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+
+.btn1{
+    height: 100px;
+    width:250px;
+    align-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.container {
+    height: auto;
+    position: relative;
+    border: 3px solid green;
+  }
+  
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+/* 
+.btn1{
+    height: 100px;
+    width: 250px;
+    align-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.container {
+    height: auto;
+    position: relative;
+    border: 3px solid green;
+  }
+  
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 4%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  } */
